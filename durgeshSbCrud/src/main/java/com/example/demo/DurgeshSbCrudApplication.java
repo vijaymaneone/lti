@@ -12,6 +12,7 @@ public class DurgeshSbCrudApplication {
 		System.out.println("Y  E  S  S  S  S,YOU ARE DOING WELL ");
 		System.out.println("duregshCrud");
 		System.out.println("Hibernate version: " + Version.getVersionString());
+		System.out.println("Github Learning");
 	}
 
 }
